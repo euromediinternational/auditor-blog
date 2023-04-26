@@ -1,0 +1,19 @@
+{
+  "name": "auditor-blog",
+  "version": "0.0.1",
+  "description": "About Auditor and Euromediinternational",
+  "main": "index.js",
+  "authors": {
+    "name": "Sami Metoui",
+    "email": "sm@euromediinternational"
+  },
+  "repository": "Auditor/auditor-blog",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
